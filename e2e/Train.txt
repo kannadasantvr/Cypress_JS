@@ -1,2 +1,0 @@
-Scenario 1 : Book tickets from chen to delhi
-Scenario 2 : cancel tickets from delhi to chennai
