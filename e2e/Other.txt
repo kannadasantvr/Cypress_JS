@@ -1,2 +1,9 @@
+
 Scenario : Handle dropdown
 Scenario 2: Handle multiple windows
+Scenario : Handle dropdowm
+Scenario : Handle fixtures
+Scenario : Handle mouse actions
+Scenario : Handle checkbox
+Scenario : Handle radio button
+
