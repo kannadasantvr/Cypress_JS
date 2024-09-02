@@ -1,1 +1,8 @@
 Scenario : Handle dropdowm
+Scenario : Handle fixtures
+
+Scenario : Handle mouse actions
+
+Scenario : Handle checkbox
+
+Scenario : Handle radio button
